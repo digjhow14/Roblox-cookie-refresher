@@ -63,3 +63,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 For any questions or issues, please open an issue on GitHub.
 
 # ChatGPT
+
+my discord is "digjhow69"
