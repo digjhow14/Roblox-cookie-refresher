@@ -9,7 +9,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/roblox-cookie-refresher.git
+git clone https://github.com/digjhow14/roblox-cookie-refresher.git
 cd roblox-cookie-refresher
 Install the required libraries:
 
